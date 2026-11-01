@@ -43,6 +43,5 @@ To create a basic Node.js HTTP server and an Express server with multiple routes
 ## Screenshots
 
 ## Deployment
-Deployment URL: Add your public deployment URL after deploying.
 
-If not deployed, explain why and include the required testing screenshots.
+Live URL: https://nodejs-express-lab.onrender.com
